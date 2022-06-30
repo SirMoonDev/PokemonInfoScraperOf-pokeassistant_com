@@ -19,7 +19,7 @@ pokemon_image_prefix = 'https://pokeassistant.com'
 
 
 start_pokemon = 1
-last_pokemon = 10043  #493
+last_pokemon = 1043  #493
 
 
 
